@@ -4,3 +4,9 @@ Training dataset link: https://www.icst.pku.edu.cn/cpdp/docs/2019042419030004151
 Making using of VGG19 (stands for Visual Geometry Group) encoder consisting of 19 convolutional layers.
 
 The model is referred from: https://medium.com/analytics-vidhya/table-extraction-using-deep-learning-3c91790aa200
+
+Steps:
+  1. pdf_to_image.py
+  2. data collection and preprocessing.ipynb
+  3. Quantization.ipynb
+  4. Final.ipynb
